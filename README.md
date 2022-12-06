@@ -3,7 +3,8 @@
 - 🌱 I'm a certified IoT Developer (Intel - Udacity), and a certified Hybrid Cloud Developer (Nutanix - Udacity).
 - 🌱 I’m currently learning everything that I can, related to Full Stack Web Development
 - 💞️ At the moment, I’m looking to collaborate on projects related to Web Development
-- 📫 How to reach me: radio_seattle@hotmail.com, https://www.linkedin.com/in/andresregaladobucheli/
+- 📫 How to reach me: radio_seattle@hotmail.com
+- 📫 My LinkedIn: https://www.linkedin.com/in/andresregaladobucheli/
 
 <!---
 ARBUCHELI/ARBUCHELI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
