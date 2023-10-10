@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ARBUCHELI (Andres R. Bucheli)
 - 👀 I’m interested in Full Stack Web Development, Cloud Computing, Machine Learning, Computer Vision, Cloud Native Architecture, Cloud Development, DevOps, and Cybersecurity
-- 🌱 I'm a certified IoT Developer (Intel - Udacity), and a certified Hybrid Cloud Developer (Nutanix - Udacity).
-- 🌱 I’m currently working as a Full Stack Web Development and strenghtening my stack whenever I have free time.
-- 💞️ At the moment, I’m looking to collaborate on projects related to Web Development
+- 🌱 I'm a certified IoT Developer (Intel - Udacity).
+- 🌱 I'm a certified Hybrid Cloud Engineer (Nutanix - Udacity).
+- 🌱 I'm a certified Front End Developer (Bertelsmann - Udacity).
+- 🌱 I’m currently working as a Full Stack Web Development and strengthening my stack whenever I have free time.
+- 💞️ At the moment, I’m looking to collaborate on projects related to Full Stack Web Development
 - 📫 How to reach me: radio_seattle@hotmail.com
 - 📫 My LinkedIn: https://www.linkedin.com/in/andresregaladobucheli/
 - 📫 My Portfolio: https://bucheli-web-personal-portfolio-website.netlify.app/
