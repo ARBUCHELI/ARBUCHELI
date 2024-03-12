@@ -3,8 +3,8 @@
 - 🌱 I'm a certified IoT Developer (Intel - Udacity).
 - 🌱 I'm a certified Hybrid Cloud Engineer (Nutanix - Udacity).
 - 🌱 I'm a certified Front End Developer (Bertelsmann - Udacity).
-- 🌱 I’m currently working as a Full Stack Web Development and strengthening my stack whenever I have free time.
-- 💞️ At the moment, I’m looking to collaborate on projects related to Full Stack Web Development
+- 🌱 I’m currently working as a Full Stack Web Development.
+- 💞️ At the moment, I’m looking to collaborate on projects related to Full Stack Web Development.
 - 📫 How to reach me: radio_seattle@hotmail.com
 - 📫 My LinkedIn: https://www.linkedin.com/in/andresregaladobucheli/
 - 📫 My Portfolio: https://bucheli-web-personal-portfolio-website.netlify.app/
