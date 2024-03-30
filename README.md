@@ -1,3 +1,5 @@
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/front-end-developer-nanodegree.jpg)
+
 - 👋 Hi, I’m @ARBUCHELI (Andres R. Bucheli)
 - 👀 I’m interested in Full Stack Web Development, Cloud Computing, Machine Learning, Computer Vision, Cloud Native Architecture, Cloud Development, DevOps, and Cybersecurity
 - 🌱 I'm a certified IoT Developer (Intel - Udacity).
