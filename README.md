@@ -11,6 +11,8 @@
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/front-end-developer-nanodegree.jpg)
 
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/nutanixnanodegree.jpg)
+
 <!---
 ARBUCHELI/ARBUCHELI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
