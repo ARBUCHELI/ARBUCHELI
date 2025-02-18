@@ -22,6 +22,8 @@
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/freecodecamp-front-end-libraries-certification.jpg)
 
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/javascript-algorithms-and-data-structures.jpg)
+
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/responsivefreecodecamp.jpg)
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/docker-foundations-professional-certificate.jpg)
