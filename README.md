@@ -15,6 +15,8 @@
 
 <h1>CERTIFICATIONS</h1>
 
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/front-end-engineer.jpg)
+
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/front-end-developer-nanodegree.jpg)
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/nutanixnanodegree.jpg)
