@@ -19,23 +19,27 @@
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/front-end-developer-nanodegree.jpg)
 
-![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/nutanixnanodegree.jpg)
-
-![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/edgeainanodegree.jpg)
-
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/freecodecamp-front-end-libraries-certification.jpg)
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/javascript-algorithms-and-data-structures.jpg)
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/responsivefreecodecamp.jpg)
 
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/front-end-app-with-react.jpg)
+
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/react-redux-skillpath.jpg) 
+
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/create-a-back-end-app-with-javascript-skill-path.jpg) 
+
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/nutanixnanodegree.jpg) 
+
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/nutanix-certified-associate.jpg)
+
+![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-education/edgeainanodegree.jpg)
+
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/docker-foundations-professional-certificate.jpg)
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/datacamp-containerization-and-virtualization-with-docker-and-kubernetes.jpg)
-
-![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/front-end-app-with-react.jpg)
-
-![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/react-redux-skillpath.jpg)
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/harvard-educators.jpg)
 
@@ -48,8 +52,6 @@
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/learn-php-skill-path.jpg)
 
 ![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/python-data-fundamentals.jpg)
-
-![alt text](https://bucheli-web-personal-portfolio-website.netlify.app/images-certificates/nutanix-certified-associate.jpg)
 
 <!---
 ARBUCHELI/ARBUCHELI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
