@@ -1,17 +1,40 @@
-- 🤝 Hi, I’m @ARBUCHELI (Andres R. Bucheli)
-- 👨‍💻 💻 📱 I'm a JavaScript Full-Stack Web Developer.
-- ⚛️ 💻 🤖 🥽 🕵️ I’m interested in Full-Stack Web Development, Cloud Computing, Machine Learning, Computer Vision, Cloud Native Architecture, Cloud Development, DevOps, Generative AI, Education, and Cybersecurity.
-- 🎓 Bachelor's Degree in Electronic Engineering with an emphasis in Control and Telecommunications.
-- 🎓 Specialization Degree in Project Management of Telecommunications Engineering.
-- 🎓 Master's Degree in Business Management and Financial Institutions.
-- 👨‍🎓 I'm a certified Front End Developer (Bertelsmann - Udacity).
-- 👨‍🎓 I'm a certified Hybrid Cloud Engineer (Nutanix - Udacity).
-- 👨‍🎓 I'm a certified IoT Developer (Intel - Udacity).
-- 💻 Currently working as a Full-Stack Web Developer in cooperation with different European, American and Russian companies
-- 💞️ At the moment, I’m looking to collaborate on projects related to Full Stack Web Development.
-- 📫 How to reach me: radio_seattle@hotmail.com
-- 🌐 My LinkedIn: https://www.linkedin.com/in/andresregaladobucheli/
-- 💼 My Portfolio: https://bucheli-web-personal-portfolio-website.netlify.app/
+🤝 Hi, I'm Andres R. Bucheli
+Senior Software Engineer | AI & LLM Specialist | Full-Stack Architect
+15+ years of engineering rigor, now building the future of AI-powered software.
+
+🚀 Professional Profile
+I am a Senior Software Engineer with over 15 years of experience building robust, scalable applications. My career has evolved from legacy systems to modern full-stack development, and now to the forefront of Artificial Intelligence Engineering.
+
+I specialize in bridging the gap between technical AI implementation and high-level business goals. I don't just build prototypes; I deliver production-ready AI agents and RAG-based systems that solve real-world problems.
+
+Deep Experience: 15+ years of architectural knowledge ensuring AI is a scalable part of the business ecosystem.
+
+AI Specialization: Hands-on proficiency in LangChain, RAG architectures, and LLM-powered system design.
+
+Strategic Foundation: Electronic Engineer with an M.Sc. in Business Management. I translate complex technical AI needs into ROI for stakeholders.
+
+Global Collaborator: 100% Remote (Worldwide) | English (Fluent) | Spanish (Native) | Russian (Professional).
+
+🛠️ Core Stack
+AI & ML: Generative AI, LLMs, LangChain, RAG Systems, AI Agents, Computer Vision.
+Full-Stack: JavaScript (ES6+), TypeScript, Node.js, React, Next.js.
+Architecture: Cloud-Native, DevOps, Microservices, Telecommunications Project Management.
+
+🎓 Education & Strategic Background
+M.Sc. in Business Management & Financial Institutions
+Specialization in Telecommunications Project Management
+B.Sc. in Electronic Engineering (Control & Telecommunications)
+
+🔗 Portfolios & Evidence
+🤖 AI Agent Portfolio — Explore my latest AI & RAG implementations: https://portfolio-ai-agent-developer.netlify.app/
+📜 Certifications Vault — Verified credentials in Cloud, IoT, and Web Dev: https://andres-r-bucheli-certs-portfolio.netlify.app/
+🌐 Personal Website — Full project history and professional blog: https://bucheli-web-personal-portfolio-website.netlify.app/
+📈 GitHub Ecosystem
+
+📬 Let's Build the Future
+I am actively seeking roles as an AI Engineer, ML Engineer, or Senior Full-Stack Developer where I can lead high-impact initiatives.
+LinkedIn: https://www.linkedin.com/in/andresregaladobucheli/
+Email: andresrbucheli@gmail.com
 
 <h1>CERTIFICATIONS</h1>
 
