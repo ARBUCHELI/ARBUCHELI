@@ -37,12 +37,6 @@ I specialize in bridging the gap between technical AI implementation and high-le
 
 ---
 
-### 📈 GitHub Ecosystem
-![Andres's GitHub stats](https://github-readme-stats.vercel.app) 
-![Top Langs](https://github-readme-stats.vercel.app) 
-
----
-
 ### 📬 Let's Build the Future
 I am actively seeking roles as an **AI Engineer**, **ML Engineer**, or **Senior Full-Stack Developer** where I can lead high-impact initiatives.
 
