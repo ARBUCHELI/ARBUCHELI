@@ -26,9 +26,9 @@ Specialization in Telecommunications Project Management
 B.Sc. in Electronic Engineering (Control & Telecommunications)
 
 🔗 Portfolios & Evidence
-🤖 AI Agent Portfolio — Explore my latest AI & RAG implementations: https://portfolio-ai-agent-developer.netlify.app/
-📜 Certifications Vault — Verified credentials in Cloud, IoT, and Web Dev: https://andres-r-bucheli-certs-portfolio.netlify.app/
-🌐 Personal Website — Full project history and professional blog: https://bucheli-web-personal-portfolio-website.netlify.app/
+. 🤖 AI Agent Portfolio — Explore my latest AI & RAG implementations: https://portfolio-ai-agent-developer.netlify.app/
+. 📜 Certifications Vault — Verified credentials in Cloud, IoT, and Web Dev: https://andres-r-bucheli-certs-portfolio.netlify.app/
+. . 🌐 Personal Website — Full project history and professional blog: https://bucheli-web-personal-portfolio-website.netlify.app/
 📈 GitHub Ecosystem
 
 📬 Let's Build the Future
